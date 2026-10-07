@@ -1,0 +1,42 @@
+"""
+file:Madlib.py
+Author: Raynor Matos Berry
+Created: 8/31/2026
+Instructor: Burgess
+"""
+w1=input("groom:steve")
+w2=input("bride:jessica")
+w3=input("noun:dress")
+w4=input("noun:suit")
+w5=input("adjective:amazing")
+w6=input("noun:cake")
+w7=input("noun:scenery")
+w8=input("adjective:")
+w9=input("place:italy")
+w10=input("past tense verb: walked")
+w11=input("number:72")
+w12=input("adjective:wonderful")
+w13=input("bodypart:eyes")
+w14=input("bodypart:face")
+w15=input("adjective:great")
+w16=input("adjective:reliable")
+w17=input("verb:forgive")
+w18=input("verb:communicate")
+w19=input("verb:disagree")
+w20=input("verb:love")
+w21=input("noun:personality")
+w22=input("verb:love")
+w23=input("noun:personality")
+
+print(f"{w1} and {w2} fell in love {w1} adored {w2}")
+print(f"{w3} and {w2} loved {w1} {w4}")
+print(f"their wedding was {w5} everyone enjoyed the {w6}")
+print(f"and {w7} after the wedding they had a {w8} honeymoon.")
+print(f"where they traveled to {w9} and {w10} with each other daily")
+print(f"they had a child {w11} months later")
+print(f"this {w12} child had {w1} {w13} and {w2} {w14}")
+print(f"through the many years after their marriage continued to be {w15}")
+print(f"thanks to the {w16} advice they received on their wedding day")
+print(f"dont forget to {w17} each other and always {w18} after you {w19}")
+print(f"{w1} always {w20} {w2} {w21}")
+print(f"and {w2} you should always {w22} {w1} {w23} and they lived happily ever after")
