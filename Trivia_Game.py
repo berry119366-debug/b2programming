@@ -18,7 +18,7 @@ else:
         score -= 10
         correct_answers -= 1
 q2=input(f"what is the capital of the united states?")
-if q2 == " washington DC":
+if q2 == " Washington DC":
     score += 10
     correct_answers += 1
     print("correct")
@@ -100,5 +100,4 @@ else:
         score -= 10
 print("final score:", score)
 print("correct answers:", correct_answers)
-print("incorrect answers:", incorrect_answers)
 print("Thank you for completing this trivia quiz")
