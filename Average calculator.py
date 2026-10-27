@@ -4,11 +4,18 @@ Author: Raynor Matos Berry
 Created: 10/23/2026
 Instructor: Burgess
 """
-x=0
-y=0
+total=0
+num=0
+user = "y"
 print("greetings user please enter a number")
-number = int(input("enter a number: "))
-x = x+number
-print(f"sum: {x}")
-y = y+1
-print(f"current amount of numbers: {y}")
+while user == "y":
+
+
+
+    number = int(input("enter a number: "))
+    total = total+number
+    print(f"sum: {total}")
+    num = num+1
+    print(f"current amount of numbers: {num}")
+    print(f"average:{total/num}")
+    user = input("would you like to enter another number (y/n): ")
